@@ -1,0 +1,13 @@
+{
+  "name": "Floorline — Manufacturing Ops",
+  "short_name": "Floorline",
+  "description": "AI-assisted quoting, inventory, suppliers, maintenance, sales, docs, safety, and QC for a manufacturing shop.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#12161B",
+  "theme_color": "#12161B",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
